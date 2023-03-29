@@ -64,6 +64,7 @@ img {
 .contact {
     display: block;
     font-size: 1.2vh;
+    text-decoration: none;
 }
 
 .about {
